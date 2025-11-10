@@ -1,0 +1,19 @@
+{
+  "name": "projeto_testes",
+  "version": "1.0.0",
+  "description": "Exemplo de testes com Vitest e TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "keywords": [],
+  "author": "Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0",
+    "vitest": "^2.0.0"
+  }
+}
